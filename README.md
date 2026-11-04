@@ -1,6 +1,6 @@
 # Persona 3 Inspired Portfolio
 
-A single-page portfolio website inspired by the iconic UI aesthetics, high-contrast colors, and dynamic motion of Persona 3. Built and sliced using Kiro IDE to showcase web development projects, technical skills, and creative front-end design.
+A web portfolio inspired by the iconic UI aesthetics, high-contrast colors, and dynamic motion of Persona 3. Built and sliced using Kiro IDE to showcase web development projects, technical skills, and creative front-end design.
 
 ---
 
