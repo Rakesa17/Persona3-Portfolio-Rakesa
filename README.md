@@ -31,4 +31,4 @@ Project ini dikembangkan menggunakan Kiro IDE untuk proses slicing layout dan pe
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Rakesa17/Persona3-Portfolio-Rakesa.git](https://github.com/Rakesa17/Persona3-Portfolio-Rakesa.git)
+   git clone https://github.com/Rakesa17/Persona3-Portfolio-Rakesa.git
